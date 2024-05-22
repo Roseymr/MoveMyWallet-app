@@ -15,13 +15,13 @@
         "@ant-design/icons": "5.0.1",
         "antd": "5.2.2",
         "ethers": "5.7.2",
-        "mongoose": "6.10.0",
+        "mongoose": "6.11.3",
         "moralis": "2.14.2",
-        "next": "13.2.1",
+        "next": "14.1.1",
         "react": "18.2.0",
         "react-dom": "18.2.0",
         "react-jazzicon": "1.0.4",
-        "sharp": "0.31.3",
+        "sharp": "0.32.6",
         "wagmi": "0.11.7"
     },
     "devDependencies": {
